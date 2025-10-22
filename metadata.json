@@ -1,0 +1,7 @@
+{
+  "name": "SloopNodge AI Suite",
+  "description": "An advanced AI suite that can generate and edit images, create videos and cartoons, and design thumbnails using the power of Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
